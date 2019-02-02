@@ -1,0 +1,9 @@
+body{
+
+	width: 500px;
+}
+
+#myimg{
+  position: relative;
+  right: 0px;
+}
